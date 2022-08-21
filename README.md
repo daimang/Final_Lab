@@ -32,31 +32,6 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/185774684-b39bf4bd-f0da-49a2-a22a-24bbd65f0f92.png)
 
 - EKS 연결
-******** CodeBuild 에서 EKS 연결 *******************
-Service Account 생성
-cat <<EOF | kubectl apply -f -
-apiVersion: v1
-kind: ServiceAccount
-metadata:
-  name: eks-admin
-  namespace: kube-system
-EOF
-
-ClusterRoleBinding 생성
-cat <<EOF | kubectl apply -f -
-apiVersion: rbac.authorization.k8s.io/v1beta1
-kind: ClusterRoleBinding
-metadata:
-  name: eks-admin
-roleRef:
-  apiGroup: rbac.authorization.k8s.io
-  kind: ClusterRole
-  name: cluster-admin
-subjects:
-- kind: ServiceAccount
-  name: eks-admin
-  namespace: kube-system
-EOF
 
 ![image](https://user-images.githubusercontent.com/3938029/185774907-3f5855bf-1be4-40f3-9de5-8192825858c5.png)
 ![image](https://user-images.githubusercontent.com/3938029/185774873-9c810050-8987-4c5e-b329-2f534f6e70b6.png)
