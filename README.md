@@ -21,7 +21,9 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185774082-bd95468c-e616-4cb2-b18e-d660e8c942a4.png)
 
-![image](https://user-images.githubusercontent.com/3938029/185775033-43f91e3b-5a60-4f4b-a9ac-8aaf511a31a2.png)
+
+- Github repo  
+- ![image](https://user-images.githubusercontent.com/3938029/185775033-43f91e3b-5a60-4f4b-a9ac-8aaf511a31a2.png)
 
 
 ![image](https://user-images.githubusercontent.com/3938029/185774377-d9b5ed09-c8a1-4b11-b91f-d2625db458d2.png)
