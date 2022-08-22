@@ -75,3 +75,4 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 - EFK 구성
 
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
+![image](https://user-images.githubusercontent.com/3938029/185948984-20717ae5-b8b5-4288-afa8-6f2e00873f54.png)
