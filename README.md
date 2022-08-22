@@ -31,6 +31,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185774684-b39bf4bd-f0da-49a2-a22a-24bbd65f0f92.png)
 
+- Prometheus 설치
+
+![image](https://user-images.githubusercontent.com/3938029/185929553-901b89ec-0431-4eb8-8fe3-9f0d613949f6.png)
+
 - EKS 연결
 
 ![image](https://user-images.githubusercontent.com/3938029/185774907-3f5855bf-1be4-40f3-9de5-8192825858c5.png)
