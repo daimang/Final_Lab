@@ -47,6 +47,8 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 - Istio 적용
 
+![image](https://user-images.githubusercontent.com/3938029/185923010-018aa917-9818-479c-b91c-1dfcdf535fd8.png)
+
 
 - EFK 구성
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
