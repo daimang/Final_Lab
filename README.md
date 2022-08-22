@@ -31,10 +31,6 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185774684-b39bf4bd-f0da-49a2-a22a-24bbd65f0f92.png)
 
-- Prometheus 설치
-
-![image](https://user-images.githubusercontent.com/3938029/185929553-901b89ec-0431-4eb8-8fe3-9f0d613949f6.png)
-
 - EKS 연결
 
 ![image](https://user-images.githubusercontent.com/3938029/185774907-3f5855bf-1be4-40f3-9de5-8192825858c5.png)
@@ -57,6 +53,11 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185928088-a255d998-c4eb-4832-8867-ad2d390ea1de.png)
 ![image](https://user-images.githubusercontent.com/3938029/185926727-331555c9-1bd2-4998-8f52-75439bdf4ac9.png)
+
+
+- Prometheus 설치
+
+![image](https://user-images.githubusercontent.com/3938029/185929553-901b89ec-0431-4eb8-8fe3-9f0d613949f6.png)
 
 - EFK 구성
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
