@@ -67,6 +67,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185931506-952e179b-93eb-4cfc-988b-2be02b5d9eec.png)
 
+- Grafana - Prometheus 연동
+
+![image](https://user-images.githubusercontent.com/3938029/185939713-7e8351f0-fc61-4eb6-8c36-1569526f033f.png)
+
 - EFK 구성
 
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
