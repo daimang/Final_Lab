@@ -63,6 +63,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185930606-ef0cbafb-020a-4b38-91ac-123c6de6a133.png)
 
+- 쿼리 
+
+![image](https://user-images.githubusercontent.com/3938029/185931506-952e179b-93eb-4cfc-988b-2be02b5d9eec.png)
+
 - EFK 구성
 
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
