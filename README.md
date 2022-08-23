@@ -78,6 +78,9 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 - EFK 설치
 
 ![image](https://user-images.githubusercontent.com/3938029/186164734-a695f109-a8e8-4d04-ac57-8da24e90ebe1.png)
+-Elastic namespace 
+
+![image](https://user-images.githubusercontent.com/3938029/185948984-20717ae5-b8b5-4288-afa8-6f2e00873f54.png)
 
 -Fluentd 내부 구조
 
@@ -87,6 +90,3 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/186167314-efd92f89-b0ec-4d97-bd19-6f8ae68f46f4.png)
 
--Elastic namespace 
-
-![image](https://user-images.githubusercontent.com/3938029/185948984-20717ae5-b8b5-4288-afa8-6f2e00873f54.png)
