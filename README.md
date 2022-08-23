@@ -99,4 +99,5 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 - Index 
 
 ![image](https://user-images.githubusercontent.com/3938029/186184179-e8903774-63dd-48fa-8e15-c656da422ed0.png)
-![image](https://user-images.githubusercontent.com/3938029/186185824-9a33d5f0-f509-4612-a1ac-d4503112498f.png)
+![image](https://user-images.githubusercontent.com/3938029/186186067-393ce9da-b514-4bad-aa3e-9cb46d8d24b1.png)
+
