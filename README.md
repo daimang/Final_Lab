@@ -41,6 +41,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/185787875-7552ddc7-7963-49f8-8d04-cfa7d727d9d7.png)
 ![image](https://user-images.githubusercontent.com/3938029/185787996-169a4747-e2e5-46fd-9d17-e8be7f79115b.png)
 
+- Kafka UI 
+
+![image](https://user-images.githubusercontent.com/3938029/186169837-0bb4e74f-e3c1-4365-8ed5-ffa447d7db5c.png)
+
 - Istio 설치
 
 ![image](https://user-images.githubusercontent.com/3938029/185922075-1adca182-fcd8-4dcd-95eb-2af947ae2171.png)
