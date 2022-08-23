@@ -80,6 +80,9 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/186164734-a695f109-a8e8-4d04-ac57-8da24e90ebe1.png)
 
 -Fluentd 내부 구조
+
 ![image](https://user-images.githubusercontent.com/3938029/186165810-424aa036-eca9-419b-84d5-d606934bbbfc.png)
+
+-Elastic namespace 
 
 ![image](https://user-images.githubusercontent.com/3938029/185948984-20717ae5-b8b5-4288-afa8-6f2e00873f54.png)
