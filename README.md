@@ -83,7 +83,7 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/186165810-424aa036-eca9-419b-84d5-d606934bbbfc.png)
 
--Fluentd-fit config
+-Fluent-fit config
 
 ![image](https://user-images.githubusercontent.com/3938029/186167314-efd92f89-b0ec-4d97-bd19-6f8ae68f46f4.png)
 
