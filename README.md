@@ -76,6 +76,15 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/187010316-103aeb3a-22a1-4ff2-96d1-08d5164db6be.png)
 
 
+- hpa
+
+![image](https://user-images.githubusercontent.com/3938029/187010483-a6e8bafd-5d49-4657-b0b7-1aa787817662.png)
+
+
+![image](https://user-images.githubusercontent.com/3938029/187010606-5927a08b-47b9-4243-9062-175c0ee54a10.png)
+
+![image](https://user-images.githubusercontent.com/3938029/187010643-89b784c8-bfa7-4742-bcb1-4960716e9eca.png)
+
 ***
 
 - Istio 설치
