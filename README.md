@@ -28,8 +28,8 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185774377-d9b5ed09-c8a1-4b11-b91f-d2625db458d2.png)
 
+![image](https://user-images.githubusercontent.com/3938029/187015037-2941d0da-eb5b-4074-a00a-699b02772cfb.png)
 
-![image](https://user-images.githubusercontent.com/3938029/185774684-b39bf4bd-f0da-49a2-a22a-24bbd65f0f92.png)
 
 - EKS 연결
 
