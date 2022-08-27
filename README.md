@@ -85,6 +85,9 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/187010710-677ddd8b-172c-4ca7-80d0-5f8eba0d3226.png)
 
+- 무정지
+
+![image](https://user-images.githubusercontent.com/3938029/187014385-729b97e5-5134-424c-a619-cbcc58b98f0b.png)
 
 
 ***
