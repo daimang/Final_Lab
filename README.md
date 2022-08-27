@@ -43,6 +43,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185787996-169a4747-e2e5-46fd-9d17-e8be7f79115b.png)
 
+- gateway Route 수정
+
+![image](https://user-images.githubusercontent.com/3938029/187007048-532de25e-18bf-4c40-a969-b55a72f28f20.png)
+****
 - Kafka UI 
 
 ![image](https://user-images.githubusercontent.com/3938029/186169837-0bb4e74f-e3c1-4365-8ed5-ffa447d7db5c.png)
