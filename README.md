@@ -68,6 +68,12 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/186169837-0bb4e74f-e3c1-4365-8ed5-ffa447d7db5c.png)
 
+***
+- load  설치
+![image](https://user-images.githubusercontent.com/3938029/187010202-6d98fcda-353e-46c3-8ac4-144140d5e8dd.png)
+
+***
+
 - Istio 설치
 
 ![image](https://user-images.githubusercontent.com/3938029/185922075-1adca182-fcd8-4dcd-95eb-2af947ae2171.png)
