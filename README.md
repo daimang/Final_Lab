@@ -13,6 +13,7 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 - pipeline
 
 ![image](https://user-images.githubusercontent.com/3938029/187051845-ae27de7c-5b8b-40cf-ba60-d67ba0e159cb.png)
+![image](https://user-images.githubusercontent.com/3938029/187051877-f3e24e7d-2db6-49fd-bdbb-b056fafee6af.png)
 
 
 
