@@ -49,6 +49,8 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/187007252-e204abb4-4d27-4145-a287-8c29849f507e.png)
 
+![image](https://user-images.githubusercontent.com/3938029/187007329-bb5cbf20-0175-4910-9a89-aabef384492b.png)
+
 ****
 - Kafka UI 
 
