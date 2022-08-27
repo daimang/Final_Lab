@@ -6,7 +6,8 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/187051298-4aa628f7-2b67-47b3-a5a4-52c50e7cfdd0.png)
 
 
-- EFK 구성
+- AWS EKS 구성
+![image](https://user-images.githubusercontent.com/3938029/187051403-5b65acbb-6398-4781-ba5d-40ea0d082031.png)
 
 ![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
 - pipeline
