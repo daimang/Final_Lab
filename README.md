@@ -1,11 +1,16 @@
 # Final_Lab
 Cloud Platfrom Eng. Final_Lab readme 작성
 
-- 아키텍처
+- MSA 아키텍처
+
 ![image](https://user-images.githubusercontent.com/3938029/187051298-4aa628f7-2b67-47b3-a5a4-52c50e7cfdd0.png)
 
 
+- EFK 구성
+
+![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
 - pipeline
+ 
 ![image](https://user-images.githubusercontent.com/3938029/187050592-cb4f63f2-2f04-4eeb-bc98-2681115e106f.png)
 
 
@@ -135,9 +140,6 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/185939713-7e8351f0-fc61-4eb6-8c36-1569526f033f.png)
 ![image](https://user-images.githubusercontent.com/3938029/185940886-57410e47-4875-438d-8ea7-5912b998fb88.png)
 
-- EFK 구성
-
-![image](https://user-images.githubusercontent.com/3938029/185772589-ad4b25b9-2dc4-43ed-a938-7f93fadb6dae.png)
 - EFK 설치
 
 ![image](https://user-images.githubusercontent.com/3938029/186164734-a695f109-a8e8-4d04-ac57-8da24e90ebe1.png)
