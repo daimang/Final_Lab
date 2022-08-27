@@ -1,6 +1,9 @@
 # Final_Lab
 Cloud Platfrom Eng. Final_Lab readme 작성
 
+- pipeline
+![image](https://user-images.githubusercontent.com/3938029/187050592-cb4f63f2-2f04-4eeb-bc98-2681115e106f.png)
+
 
 ![image](https://user-images.githubusercontent.com/3938029/185773089-740ecac8-c2f0-4f0a-baad-8a5b02236557.png)
 
