@@ -47,11 +47,18 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/187007048-532de25e-18bf-4c40-a969-b55a72f28f20.png)
 
-![image](https://user-images.githubusercontent.com/3938029/187007252-e204abb4-4d27-4145-a287-8c29849f507e.png)
+- 상품등록
+
 ![image](https://user-images.githubusercontent.com/3938029/187009806-3290a4f2-095d-4f56-a19a-9fdb11e066cd.png)
 
+- 주문생성 
+
 ![image](https://user-images.githubusercontent.com/3938029/187007329-bb5cbf20-0175-4910-9a89-aabef384492b.png)
+- 주문취소 
+
 ![image](https://user-images.githubusercontent.com/3938029/187009860-17ff63b7-1b1b-4864-9e8b-f5354de6d153.png)
+- Kafka 모니터링
+![image](https://user-images.githubusercontent.com/3938029/187009901-963ffb6a-a681-4ea5-b179-8d519e3bd946.png)
 
 ****
 - Kafka UI 
