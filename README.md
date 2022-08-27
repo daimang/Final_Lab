@@ -43,6 +43,9 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/187015037-2941d0da-eb5b-4074-a00a-699b02772cfb.png)
 
+- Trouble shooting
+
+![image](https://user-images.githubusercontent.com/3938029/187051809-2f8aaa23-ab4c-4e78-9fc7-ddb2ae525a43.png)
 
 - EKS 연결
 
