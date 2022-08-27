@@ -103,11 +103,10 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 ![image](https://user-images.githubusercontent.com/3938029/185923010-018aa917-9818-479c-b91c-1dfcdf535fd8.png)
 
 - kiali 설치
-![image](https://user-images.githubusercontent.com/3938029/187014817-28c18b23-b98a-4425-b9f5-6ce019fccc37.png)
 
 ![image](https://user-images.githubusercontent.com/3938029/185928088-a255d998-c4eb-4832-8867-ad2d390ea1de.png)
 ![image](https://user-images.githubusercontent.com/3938029/185926727-331555c9-1bd2-4998-8f52-75439bdf4ac9.png)
-![image](https://user-images.githubusercontent.com/3938029/187007385-e0998e9f-4d2b-466d-afca-22e5f12a0484.png)
+![image](https://user-images.githubusercontent.com/3938029/187014902-b7aec283-99cc-4d11-8bac-8df0a92dd1e6.png)
 
 
 - Prometheus 설치
