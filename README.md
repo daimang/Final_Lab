@@ -68,6 +68,7 @@ Cloud Platfrom Eng. Final_Lab readme 작성
 
 ![image](https://user-images.githubusercontent.com/3938029/185928088-a255d998-c4eb-4832-8867-ad2d390ea1de.png)
 ![image](https://user-images.githubusercontent.com/3938029/185926727-331555c9-1bd2-4998-8f52-75439bdf4ac9.png)
+![image](https://user-images.githubusercontent.com/3938029/187007385-e0998e9f-4d2b-466d-afca-22e5f12a0484.png)
 
 
 - Prometheus 설치
